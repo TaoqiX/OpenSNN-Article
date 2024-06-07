@@ -1,8 +1,10 @@
 # 开思通智网-平台发文
 
-<a href="https://www.opensnn.com/">  
-    <img src="https://www.opensnn.com/cn/img/logo.svg" alt="OpenSNN开思通智网" style="height:300px;"/>  
-</a>
+<p align="center">
+  <a href="https://www.opensnn.com/">
+    <img src="https://www.opensnn.com/cn/img/logo.svg" alt="OpenSNN开思通智网" style="border-radius: 12%;height:300px;">
+  </a>
+</p>
 
 ### 介绍
 获取更多计算机知识，以及AGI资讯， 
@@ -15,7 +17,6 @@
 
 - [正则表达式中常见的符号和用法](./计算机技术文章/正则表达式中常见的符号和用法.md)
 - [计算机技术文章/接口中的请求参数有哪些类型呢](./计算机技术文章/接口中的请求参数有哪些类型呢.md)
-
 
 
 
