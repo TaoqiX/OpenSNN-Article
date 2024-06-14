@@ -132,6 +132,12 @@ git push --set-upstream origin mydev:main
 git push --set-upstream gitlab mydev:master
 # 一个本地分支可以添加多个远程分支,只能绑定一个上流分支。
 
+git fetch --depth=1 origin dev
+git checkout mydev
+git merge origin/dev
+# 将远程分支dev的最新提交合并到本地分支mydev，并且只获取该远程分支的最近一次提交（即浅克隆）
+git fetch --depth=1 origin dev:mydev   # 将mydev重置到dev
+
 ```
 ## git fetch的相关命令
 
