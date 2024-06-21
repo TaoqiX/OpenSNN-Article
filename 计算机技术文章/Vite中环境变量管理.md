@@ -137,11 +137,14 @@ export default {
 
 > 官方介绍：[https://cn.vitejs.dev/guide/env-and-mode.html](https://cn.vitejs.dev/guide/env-and-mode.html)
 
-######
 
-------
 
 ######
 
-【部分内容参考自AI】
+-----
 
+【转载自:】**开思通智网** ---- “一起来o站，玩转AGI！”  
+【官网:】[https://www.opensnn.com/](https://www.opensnn.com/)  
+【原文链接:】[https://www.opensnn.com/os/article/10000837](https://www.opensnn.com/os/article/10000837)
+
+##### 结束

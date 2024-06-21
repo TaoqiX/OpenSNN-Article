@@ -87,11 +87,14 @@ console.log(import.meta.env.VITE_API_URL);
 
 Vite为Vue 3项目提供了快速、高效的开发和构建体验。它通过使用原生ES模块来加速开发服务器启动时间和热模块替换，优化生产构建，并提供灵活的插件系统和配置选项。Vite不仅提升了开发者的效率，还增强了构建产物的性能，使其成为现代前端开发的理想选择。
 
-######
-
-------
 
 ######
 
-【部分内容参考自AI】
+-----
+
+【转载自:】**开思通智网** ---- “一起来o站，玩转AGI！”  
+【官网:】[https://www.opensnn.com/](https://www.opensnn.com/)  
+【原文链接:】[https://www.opensnn.com/os/article/10000841](https://www.opensnn.com/os/article/10000841)
+
+##### 结束
 
